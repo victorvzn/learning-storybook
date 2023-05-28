@@ -23,3 +23,4 @@ open http://localhost:6006
 ### Links
 
 * https://storybook.js.org
+* https://storybook.js.org/docs/vue/writing-stories/introduction
